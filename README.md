@@ -1,4 +1,4 @@
-tradelink-africa/
+
 ├── index.html          ← Home page (hero, marketplace, categories, testimonials, contact)
 ├── login.html          ← Login page
 ├── register.html       ← Registration page
